@@ -4,7 +4,7 @@
 
 Приложение написано на основе [технического задания](https://docs.google.com/document/d/1WfN2AcFEWbunQOdH66dF8DP4konRUROU/edit).
 
-![SolarSystem](https://user-images.githubusercontent.com/81263807/204380532-6895d2cf-5ba4-487f-be02-ca98234b2ecb.png)
+![SolarSystem](https://github.com/annleshkevich/SolarSystem/blob/main/1.png)
 
 # Oписание классов и методов
 Проект содержит в себе следующие классы:
