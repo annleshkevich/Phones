@@ -39,7 +39,7 @@
 + Установите расширение для Visual Studio.
 + Клонирование проекта: 
 ```
-    git clone https://github.com/Ilya57061/Phones.git
+    git clone https://github.com/annleshkevich/SolarSystem.git
 ```
 + Откройте src\SolarSystem.sln в Visual Studio, чтобы создать и запустить приложение __SolarSystem__.
 + Для запуска тестов пользовательского интерфейса необходимо убедиться, что установлен драйвер приложения Windows (WinAppDriver).
